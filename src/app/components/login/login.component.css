@@ -1,0 +1,33 @@
+body {
+  background: url(../home/assets/bg-log.jpg)
+  no-repeat center center;
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: content-box;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  border-radius: 89px;
+  opacity: 90%;
+}
+
+.Avatar {
+  margin-top: 30px;
+  border-radius: 500px;
+  border: 25px solid white;
+  background-color: #457
+}
+
+footer {
+  background-color: #f5f5f5;
+
+}
+.btn-log{
+  background-color: #0ABEAD;
+}
+.btn-regi{
+  background-color: #F57F17;
+}
